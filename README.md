@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">Nurse -> Software Engineer</h3>
+<h3 align="center">Nurse -> Software Engineer | Developing the future of clinical solutions</h3>
 
 - 🌱 I’m currently learning **Python & Flask**
 
