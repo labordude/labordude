@@ -33,9 +33,9 @@
 </thead>
 <tbody>
   <tr>
-    <td><img src="images/tracky-mcpackage.png" alt="trackymcpackage image" width="300px" /></td>
-    <td><img src="images/pawtify.png" alt="pawtify image" width="300px" /></td>
-    <td><img src="images/click-it-to-ride.png" alt="CITR image" width="300px"/></td>
+    <td><img src="images/tracky-mcpackage.png" alt="trackymcpackage image" height="250px" /></td>
+    <td><img src="images/pawtify.png" alt="pawtify image" height="250px" /></td>
+    <td><img src="images/click-it-to-ride.png" alt="CITR image" height="250px"/></td>
   </tr>
   <tr>
     <td>Python command line app to provide for package tracking and driver support within a local delivery network.</td>
