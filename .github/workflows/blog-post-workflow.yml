@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: labordude/labordude@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: '4'
-          feed_list: 'https://medium.com/feed/@ifmikethencode'
+          max_post_count:'4'
+          feed_list: "https://medium.com/feed/@ifmikethencode"
+          commit_message: ":memo: update medium posts list"
