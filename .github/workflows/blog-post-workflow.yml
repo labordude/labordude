@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: labordude/blog-post-workflow@master
+      - uses: labordude/labordude@main
         with:
           max_post_count: '4'
           feed_list: 'https://medium.com/feed/@ifmikethencode'
