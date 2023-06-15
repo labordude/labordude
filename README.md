@@ -6,6 +6,7 @@
 - 📝 I regularly write articles on [https://medium.com/@ifmikethencode](https://medium.com/@ifmikethencode)
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -21,3 +22,64 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=labordude&show_icons=true&locale=en&layout=compact" alt="labordude" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labordude&" alt="labordude" /></p>
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th><a href="https://github.com/labordude/tracky-mcpackage">TrackyMcPackage</a></th>
+    <th><a href="https://github.com/labordude/pawtify">Pawtify</a></th>
+    <th><a href="https://github.com/labordude/click-it-to-ride">Click It To Ride</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Image</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tech stack</td>
+    <td><ul><li>Python</li></ul></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
