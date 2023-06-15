@@ -33,9 +33,9 @@
 </thead>
 <tbody>
   <tr>
-    <td><img src="images/tracky-mcpackage.png" alt="trackymcpackage image" height="250px" /></td>
-    <td><img src="images/pawtify.png" alt="pawtify image" height="250px" /></td>
-    <td><img src="images/click-it-to-ride.png" alt="CITR image" height="250px"/></td>
+    <td><img src="images/tracky-mcpackage.png" alt="trackymcpackage image" width="250px" /></td>
+    <td><img src="images/pawtify.png" alt="pawtify image" width="250px" /></td>
+    <td><img src="images/click-it-to-ride.png" alt="CITR image" width="250px"/></td>
   </tr>
   <tr>
     <td>Python command line app to provide for package tracking and driver support within a local delivery network.</td>
@@ -43,7 +43,7 @@
     <td>Autotrader clone to help speed up and simply vehicle searches</td>
   </tr>
   <tr>
-    <td>    <ul>
+    <td> Tech stack:   <ul>
         <li>Python</li>
         <li>SQLite</li>
         <li>SQLAlchemy</li>
@@ -54,7 +54,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>Features
+    <td>Features:
     <ul><li>Interactive clickable TUI</li>
     <li>Editable tables</li>
     <li>Full CRUD functionality</li>
@@ -63,7 +63,7 @@
     <td></td>
   </tr>
       <tr><td>    WOW factor
-    <ul><li>Best path routing for package delivery using mlrose algorithms. Implementation of the Traveling Salesman Problem</li></ul></td>
+    <ul><li>Best path routing for package delivery using mlrose algorithms.</li> <li>Implementation of the Traveling Salesman Problem</li></ul></td>
     <td></td>
     <td></td></tr>
 </tbody>
