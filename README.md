@@ -38,7 +38,6 @@
     <td><img src="images/click-it-to-ride.png" alt="CITR image" width="300px"/></td>
   </tr>
   <tr>
-    <td>Description</td>
     <td>Python command line app to provide for package tracking and driver support within a local delivery network.</td>
     <td>Social media site to generate custom playlists based on you and your friends' musical tastes.</td>
     <td>Autotrader clone to help speed up and simply vehicle searches</td>
