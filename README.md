@@ -26,7 +26,6 @@
 <table>
 <thead>
   <tr>
-    <th></th>
     <th><a href="https://github.com/labordude/tracky-mcpackage">TrackyMcPackage</a></th>
     <th><a href="https://github.com/labordude/pawtify">Pawtify</a></th>
     <th><a href="https://github.com/labordude/click-it-to-ride">Click It To Ride</a></th>
@@ -34,7 +33,6 @@
 </thead>
 <tbody>
   <tr>
-    <td>Image</td>
     <td><img src="images/tracky-mcpackage.png" alt="trackymcpackage image" width="300px" /></td>
     <td><img src="images/pawtify.png" alt="pawtify image" width="300px" /></td>
     <td><img src="images/click-it-to-ride.png" alt="CITR image" width="300px"/></td>
@@ -46,34 +44,28 @@
     <td>Autotrader clone to help speed up and simply vehicle searches</td>
   </tr>
   <tr>
-    <td>Tech stack</td>
-    <td><ul><li>Python</li></ul></td>
+    <td>    <ul>
+        <li>Python</li>
+        <li>SQLite</li>
+        <li>SQLAlchemy</li>
+        <li>Textual</li>
+        <li>mlrose</li>
+    </ul></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td> </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td></td>
+    <td>Features
+    <ul><li>Interactive clickable TUI</li>
+    <li>Editable tables</li>
+    <li>Full CRUD functionality</li>
+    </ul></td>
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td>  </td>
+      <tr><td>    WOW factor
+    <ul><li>Best path routing for package delivery using mlrose algorithms. Implementation of the Traveling Salesman Problem</li></ul></td>
     <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>  </td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+    <td></td></tr>
 </tbody>
 </table>
