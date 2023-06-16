@@ -22,12 +22,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=labordude&show_icons=true&locale=en&layout=compact" alt="labordude" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labordude&" alt="labordude" /></p>
-
-    <table>
+<table>
       <thead>
         <th>Project</th>
-        <th>Image</th>
         <th>Description</th>
+        <th>Image</th>
         <th>Tech stack</th>
         <th>Features</th>
         <th>WOW Factor</th>
