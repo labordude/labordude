@@ -49,7 +49,6 @@
               width="250px" />
           </td>
           <td>
-            Tech stack:
             <ul>
               <li>Python</li>
               <li>SQLAlchemy</li>
@@ -60,7 +59,6 @@
             </ul>
           </td>
           <td>
-            Features:
             <ul>
               <li>Interactive clickable TUI</li>
               <li>Editable tables</li>
@@ -68,7 +66,6 @@
             </ul>
           </td>
           <td>
-            WOW factor
             <ul>
               <li>
                 Best path routing for package delivery using mlrose algorithms.
@@ -89,7 +86,6 @@
             <img src="images/pawtify.png" alt="pawtify image" width="250px" />
           </td>
           <td>
-            Tech stack:
             <ul>
               <li>React [Vite]</li>
               <li>React Router v6</li>
@@ -100,7 +96,6 @@
             </ul>
           </td>
           <td>
-            Features:
             <ul>
               <li>Spotify API connection</li>
               <li>Multiple React Hooks</li>
@@ -109,7 +104,6 @@
             </ul>
           </td>
           <td>
-            WOW factor
             <ul>
               <li>Friend requesting with notifications</li>
             </ul>
@@ -129,7 +123,6 @@
               width="250px" />
           </td>
           <td>
-            Tech stack:
             <ul>
               <li>HTML/CSS</li>
               <li>Vanilla JS</li>
@@ -137,7 +130,6 @@
             </ul>
           </td>
           <td>
-            Features:
             <ul>
               <li>Mobile-friendly responsive design</li>
               <li>Internal and external APIs</li>
@@ -146,7 +138,6 @@
             </ul>
           </td>
           <td>
-            WOW factor
             <ul>
               <li>Integrated voice search</li>
             </ul>
