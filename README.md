@@ -23,48 +23,135 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labordude&" alt="labordude" /></p>
 
-<table>
-<thead>
-  <tr>
-    <th><a href="https://github.com/labordude/tracky-mcpackage">TrackyMcPackage</a></th>
-    <th><a href="https://github.com/labordude/pawtify">Pawtify</a></th>
-    <th><a href="https://github.com/labordude/click-it-to-ride">Click It To Ride</a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><img src="images/tracky-mcpackage.png" alt="trackymcpackage image" width="250px" /></td>
-    <td><img src="images/pawtify.png" alt="pawtify image" width="250px" /></td>
-    <td><img src="images/click-it-to-ride.png" alt="CITR image" width="250px"/></td>
-  </tr>
-  <tr>
-    <td>Python command line app to provide for package tracking and driver support within a local delivery network.</td>
-    <td>Social media site to generate custom playlists based on you and your friends' musical tastes.</td>
-    <td>Autotrader clone to help speed up and simply vehicle searches</td>
-  </tr>
-  <tr>
-    <td> Tech stack:   <ul>
-        <li>Python</li>
-        <li>SQLite</li>
-        <li>SQLAlchemy</li>
-        <li>Textual</li>
-        <li>mlrose</li>
-    </ul></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Features:
-    <ul><li>Interactive clickable TUI</li>
-    <li>Editable tables</li>
-    <li>Full CRUD functionality</li>
-    </ul></td>
-    <td></td>
-    <td></td>
-  </tr>
-      <tr><td>    WOW factor
-    <ul><li>Best path routing for package delivery using mlrose algorithms.</li> <li>Implementation of the Traveling Salesman Problem</li></ul></td>
-    <td></td>
-    <td></td></tr>
-</tbody>
-</table>
+    <table>
+      <thead>
+        <th>Project</th>
+        <th>Image</th>
+        <th>Description</th>
+        <th>Tech stack</th>
+        <th>Features</th>
+        <th>WOW Factor</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <a href="https://github.com/labordude/tracky-mcpackage"
+              >TrackyMcPackage</a
+            >
+          </td>
+          <td>
+            Python command line app to provide for package tracking and driver
+            support within a local delivery network.
+          </td>
+          <td>
+            <img
+              src="images/tracky-mcpackage.png"
+              alt="trackymcpackage image"
+              width="250px" />
+          </td>
+          <td>
+            Tech stack:
+            <ul>
+              <li>Python</li>
+              <li>SQLAlchemy</li>
+              <li>Alembic</li>
+              <li>SQLite</li>
+              <li>Textual</li>
+              <li>mlrose</li>
+            </ul>
+          </td>
+          <td>
+            Features:
+            <ul>
+              <li>Interactive clickable TUI</li>
+              <li>Editable tables</li>
+              <li>Full CRUD functionality</li>
+            </ul>
+          </td>
+          <td>
+            WOW factor
+            <ul>
+              <li>
+                Best path routing for package delivery using mlrose algorithms.
+              </li>
+              <li>Implementation of the Traveling Salesman Problem</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/labordude/pawtify">Pawtify</a>
+          </td>
+          <td>
+            Social media site to generate custom playlists based on you and your
+            friends' combined musical tastes.
+          </td>
+          <td>
+            <img src="images/pawtify.png" alt="pawtify image" width="250px" />
+          </td>
+          <td>
+            Tech stack:
+            <ul>
+              <li>React [Vite]</li>
+              <li>React Router v6</li>
+              <li>JavaScript</li>
+              <li>Tailwind CSS</li>
+              <li>DaisyUI</li>
+              <li>Formik & Yup</li>
+            </ul>
+          </td>
+          <td>
+            Features:
+            <ul>
+              <li>Spotify API connection</li>
+              <li>Multiple React Hooks</li>
+              <li>Internal and External Routing</li>
+              <li>Full CRUD functionality</li>
+            </ul>
+          </td>
+          <td>
+            WOW factor
+            <ul>
+              <li>Friend requesting with notifications</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/labordude/click-it-to-ride"
+              >Click It To Ride</a
+            >
+          </td>
+          <td>AutoTrader clone</td>
+          <td>
+            <img
+              src="images/click-it-to-ride.png"
+              alt="click it to ride image"
+              width="250px" />
+          </td>
+          <td>
+            Tech stack:
+            <ul>
+              <li>HTML/CSS</li>
+              <li>Vanilla JS</li>
+              <li>Tailwind CSS</li>
+            </ul>
+          </td>
+          <td>
+            Features:
+            <ul>
+              <li>Mobile-friendly responsive design</li>
+              <li>Internal and external APIs</li>
+              <li>On-the-fly AI generated images</li>
+              <li>Full CRUD functionality</li>
+            </ul>
+          </td>
+          <td>
+            WOW factor
+            <ul>
+              <li>Integrated voice search</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
