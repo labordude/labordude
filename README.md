@@ -8,6 +8,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [pandas…bamboozle your data](https://ifmikethencode.medium.com/pandas-bamboozle-your-data-8c2b496b764c?source=rss-40dd2550f406------2)
+- [Routes, Switches, and Links…Oh my!](https://ifmikethencode.medium.com/routes-switches-links-oh-my-637e23126ee3?source=rss-40dd2550f406------2)
+- [Going on an Array Hunt in JavaScript](https://ifmikethencode.medium.com/going-on-an-array-hunt-in-javascript-8a13a40af90c?source=rss-40dd2550f406------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
