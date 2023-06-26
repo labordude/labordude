@@ -16,4 +16,4 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'medium.com/feed/@ifmikethencode'
+          feed_list: 'http://ifmikethencode.medium.com/feed'
